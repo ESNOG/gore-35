@@ -108,7 +108,7 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -131,7 +131,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -169,7 +169,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -193,7 +193,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -215,7 +215,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -254,7 +254,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -282,7 +282,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog33-catnix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-catnix.pdf))
 
 
 {{% /portfolio %}}  
@@ -300,7 +300,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [DE-cix - www.de-cix.net](https://www.de-cix.net/)
 
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog33-de_cix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-de_cix.pdf))
 
 {{% /portfolio %}}  
 
@@ -317,7 +317,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog33-espanix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-espanix.pdf))
 
 {{% /portfolio %}}  
 
@@ -357,7 +357,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -465,7 +465,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -491,7 +491,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -516,7 +516,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -555,7 +555,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -580,7 +580,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -606,7 +606,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -645,7 +645,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
@@ -671,7 +671,7 @@ Por definir
 
 Por definir
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
