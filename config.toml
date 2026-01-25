@@ -1,10 +1,11 @@
-baseurl = "https://www.esnog.net/gore33" # Hostname (and path) to the root.
-title = "ESNOG/GORE Reunion 33" # Site title.
+baseurl = "https://www.esnog.net/gore35" # Hostname (and path) to the root.
+title = "ESNOG/GORE Reunion 35" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "es" # The default content language.
 
-paginate = 20 # Default number of pages per page in pagination.
+[pagination]
+pagerSize = 10
 
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
@@ -15,11 +16,11 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "" # Author's name.
-    info = "Reunion no. 33 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
-    description = "GORE 33 website" # Site description.
-    keywords = "esnog,gore33,internet" # Site keywords.
+    info = "Reunion no. 35 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
+    description = "GORE 35 website" # Site description.
+    keywords = "esnog,gore35,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog33-framed.png"
+    avatarurl = "img/esnog35-framed.png"
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     #fixedbarContent = "Accede a mas detalles del evento en las entradas del menu superior" # Add fixedbar content

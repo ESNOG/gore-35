@@ -1,5 +1,5 @@
 ---
-title: "Agenda - ESNOG 33"
+title: "Agenda - ESNOG 35"
 ---
 
 ---------------------------
@@ -55,9 +55,12 @@ https://t.me/esnog_es
 #
 {{% /portfolio %}} 
 
+#
 
 ---------------------------
 ---------------------------
+
+#
 
 {{% portfolio %}}
 #
@@ -81,7 +84,6 @@ https://t.me/esnog_es
 
 #### Bienvenida y Presentación Patrocinadores
 #
-
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-35
 
@@ -140,15 +142,10 @@ Por definir
 ### 11:15-11:45
 #
 
-{{% portfolio image="/gore35/img/icono-cafe-solid_optics.jpg" alt="cafe-solid_optics" %}}
+{{% portfolio image="/gore35/img/icono-cafe.png" alt="cafe" %}}
 
 ### Pausa para Café
 
-#### Patrocinado por: 
-
-#### SOLID OPTICS
-
-[https://www.solid-optics.com/](https://www.solid-optics.com/) 
 
 {{% /portfolio %}}  
 
@@ -333,7 +330,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 
 
-{{% portfolio image="/gore35/img/icono-cafe-genie.jpg" alt="cafe" %}}
+{{% portfolio image="/gore35/img/icono-cafe.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -365,7 +362,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
 
 
 #
@@ -395,7 +391,7 @@ Por definir
 ### 19:30 - 20:45 CEST
 #
 
-{{% portfolio image="/gore35/img/icono-fiesta-ntt.jpg" alt="fiesta" %}}
+{{% portfolio image="/gore35/img/icono-fiesta.png" alt="fiesta" %}}
 
 ### Beers & Talk
 
@@ -415,7 +411,7 @@ Por definir
 ### 21:00 - 23:00 CEST
 #
 
-{{% portfolio image="/gore35/img/icono-comida-genie.jpg" alt="cena" %}}
+{{% portfolio image="/gore35/img/icono-comida.jpg" alt="cena" %}}
 
 ### Cena ESNOG
 
@@ -425,6 +421,7 @@ Por definir
 
 [https://www.esnog.net/](https://www.esnog.net/) 
 
+#
 
 - Las invitaciones se repartiran durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario estar inscrito previamente.
@@ -473,7 +470,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
 
 
 #
@@ -500,8 +496,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
-
 
 #
 #
@@ -526,8 +520,6 @@ Por definir
 
 {{% /portfolio %}}
 
-
-{{% /portfolio %}} 
 
 
 #
@@ -568,9 +560,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
-
-
 
 #
 #
@@ -596,8 +585,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
-
 
 
 #
@@ -622,9 +609,6 @@ Por definir
 ([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
-
-
-{{% /portfolio %}} 
 
 
 #
@@ -666,9 +650,6 @@ Por definir
 {{% /portfolio %}}
 
 
-{{% /portfolio %}} 
-
-
 
 #
 #
@@ -693,9 +674,6 @@ Por definir
 ([**PRESENTACION en PDF**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
-
-
-{{% /portfolio %}} 
 
 
 #
