@@ -109,7 +109,7 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -132,7 +132,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -170,7 +170,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -194,7 +194,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -216,7 +216,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -255,7 +255,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -286,14 +286,14 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore35/img/maria_isabel_gandia.jpg" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore35/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-catnix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-catnix.pdf))
 
 
 {{% /portfolio %}}  
@@ -304,14 +304,14 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### DE-CIX 
 
-{{% portfolio image="/gore35/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore35/img/ponente-marcos-sanz.jpg" alt="Marcos Sanz" %}}
 
 **Marcos Sanz** 
 
 [DE-cix - www.de-cix.net](https://www.de-cix.net/)
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-de_cix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-de_cix.pdf))
 
 {{% /portfolio %}}  
 
@@ -321,14 +321,14 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### ESPANIX
 
-{{% portfolio image="/gore35/img/javier_achirica.jpg" alt="Javier Achirica" %}}
+{{% portfolio image="/gore35/img/ponente-javier-achirica.jpg" alt="Javier Achirica" %}}
 
 
 **Javier Achirica** 
 
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog33-espanix.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-espanix.pdf))
 
 {{% /portfolio %}}  
 
@@ -358,7 +358,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -466,7 +466,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -492,7 +492,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -517,7 +517,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -556,7 +556,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -581,7 +581,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -607,7 +607,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -646,7 +646,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**
@@ -672,7 +672,7 @@ Por definir
 #### Título por definir
 #
 
-{{% portfolio image="/gore35/img/john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
 **Ponente por definir**

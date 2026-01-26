@@ -18,6 +18,9 @@ The email address you provide will be used for meeting notices and notifications
 
 
 
+
+
+
 También puedes utilizar el canal de Telegram [Telegram ESNOG](https://t.me/esnog_es) para estar al día en todas las novedades sobre este evento, y sobre [ESNOG](https://www.esnog.net) en general. 
 
 You can also use the Telegram channel [Telegram ESNOG](https://t.me/esnog_es) to stay up to date with all the news about this event, and about [ESNOG](https://www.esnog.net) in general.
