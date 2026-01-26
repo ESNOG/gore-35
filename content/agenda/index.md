@@ -766,12 +766,12 @@ Por definir
 ---------------------------
 
 ### 15:30 - 16:00 CEST
+#
 
 
-{{% portfolio %}}
+{{% portfolio image="/gore35/img/icono-concurso.png" alt="contest" %}}
 
-#### Concurso y Despedida
-
+### Concurso y Despedida
 
 {{% /portfolio %}}
 
