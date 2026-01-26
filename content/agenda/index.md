@@ -55,6 +55,16 @@ https://t.me/esnog_es
 #
 {{% /portfolio %}} 
 
+
+{{< sponsors >}}
+
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
+
 #
 
 ---------------------------
@@ -88,6 +98,7 @@ https://t.me/esnog_es
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-35
 
 Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) del ESNOG-35, que gracias a ellos es posible este evento.
+
 
 #
 #
