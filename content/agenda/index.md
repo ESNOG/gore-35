@@ -2,12 +2,33 @@
 title: "Agenda - ESNOG 35"
 ---
 
----------------------------
----------------------------
+{{% portfolio %}}
 
-
-## Asistencia Presencial 
 #
+#
+
+{{% /portfolio %}} 
+
+---
+
+{{% portfolio %}}
+
+#
+#
+
+{{% /portfolio %}} 
+
+
+
+# Asistencia Presencial
+
+
+{{% portfolio %}}
+
+#
+#
+
+{{% /portfolio %}} 
 
 
 La celebración del ESNOG-35, tendrá lugar en:
@@ -25,14 +46,25 @@ Ubicacion en el campus: Auditorio
 [https://www.uc3m.es/inicio](https://www.uc3m.es/inicio)
 
 
-{{% portfolio %}}
 
+{{% portfolio %}}
+#
+#
 {{% /portfolio %}} 
 
+
+# 
+[-------------------------------------------------------------------------------------------------]: # 
 #
 
-## Asistencia online
+
+# Asistencia online
+
+{{% portfolio %}}
 #
+#
+{{% /portfolio %}} 
+
 
 También existe la posibilidad de seguir el evento en el canal del ESNOG en youtube:
 
@@ -56,7 +88,15 @@ https://t.me/esnog_es
 {{% /portfolio %}} 
 
 
+# 
+[------------------- SPONSORS -------------------]: # 
+#
+
+
+
+
 {{< sponsors >}}
+
 
 
 {{% portfolio %}}
@@ -65,12 +105,11 @@ https://t.me/esnog_es
 {{% /portfolio %}} 
 
 
+# 
+[-------------------------------------------------------------------------------------------------]: # 
 #
 
----------------------------
----------------------------
 
-#
 
 {{% portfolio %}}
 #
@@ -80,6 +119,12 @@ https://t.me/esnog_es
 
 ## Dia 16 de Abril de 2026
 ---------------------------
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
 
 ### 9:30 - 10:00 CEST
 
@@ -441,14 +486,43 @@ Por definir
 {{% /portfolio %}}
 
 
+
+{{% portfolio %}}
 #
 #
+{{% /portfolio %}} 
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
+
+
 ---------------------------
 ---------------------------
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
+
 
 
 ## Dia 17 de Abril de 2025
 ---------------------------
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
 
 ### 9:00 - 9:30 CEST
 
@@ -705,4 +779,10 @@ Por definir
 #
 ---------------------------
 
-{{< sponsors >}}
+#
+#
+#
+#
+#
+#
+
