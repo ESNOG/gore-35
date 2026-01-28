@@ -34,13 +34,7 @@
     {{ if .Site.Params.snsShare }}
       <div class="sns-shares pc-sns-shares">
         {{ if .Site.Params.enableTwitterShare }}
-          <a class="sns-share twitter-share" href="https://twitter.com/intent/tweet?original_referer={{ .Permalink }}&ref_src=twsrc%5Etfw&text={{ .Title }} {{ .Site.Title }}&tw_p=tweetbutton&url={{ .Permalink }}" aria-label="Share on X (formerly Twitter)">
-            <!-- SVG del logo actualizado de X (Twitter) -->
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="20" height="20" style="vertical-align: middle;">
-              <g>
-                <path d="M1147.4 11.7c-30.6 0-53.1 15.4-74.2 41.7L447.9 1070.2V378.2c0-30.4-25.4-55.8-55.8-55.8H214.3c-30.3 0-55.7 25.4-55.7 55.8v828.9c0 30.4 25.4 55.7 55.7 55.7h184.9c30.4 0 55.8-25.3 55.8-55.7V858.2l625.3 339.7c21.1 26.3 43.6 41.7 74.2 41.7 56.2 0 87-68.5 46.5-110.3L767 615l426.8-511.7c40.5-41.7 9.7-110.3-46.4-110.3z" fill="#000"/>
-              </g>
-            </svg>
+          <a class="sns-share twitter-share" href="https://twitter.com/intent/tweet?original_referer={{ .Permalink }}&ref_src=twsrc%5Etfw&text={{ .Title }} {{ .Site.Title }}&tw_p=tweetbutton&url={{ .Permalink }}" aria-label="Share on X (formerly Twitter)"><i class="fab fa-x-twitter"></i>
           </a>
         {{ end }}
         {{ if .Site.Params.enableFacebookShare }}
