@@ -11,8 +11,7 @@ description = ""
 
 Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 35 de ESNOG (GORE-35):
 
-- NETSCOUT (https://www.netscout.com)
-- ESPANIX (https://www.espanix.net)
+- INTERLINK (https://inter.link/)
 - IPBroker  (https://www.ipbroker.es/)
 - SOLID OPTICS  (https://www.solid-optics.com/)
 - TECNOCRATICA (https://www.tecnocratica.com)
