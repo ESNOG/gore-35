@@ -449,16 +449,20 @@ Por definir
 
 {{% portfolio image="/gore35/img/icono-fiesta.png" alt="fiesta" %}}
 
+
 ### Beers & Talk
 
-#### Patrocinado por: 
+##### Patrocinado por: 
 
-#### POR DEFINIR
+### SOLID OPTICS
 
-[https://www.esnog.net/](https://www.esnog.net/) 
+
+[https://www.solid-optics.com/](https://www.solid-optics.com/) 
+
+
+
 
 {{% /portfolio %}} 
-
 
 #
 #
