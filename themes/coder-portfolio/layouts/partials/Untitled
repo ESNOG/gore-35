@@ -1,0 +1,30 @@
+#ayscom {
+      width: 108px;
+    }
+    #espanix {
+      width: 174px;
+    }
+    #genie {
+      width: 173px;
+    }
+    #ipbroker {
+      width: 185px;
+    }
+    #nexgen {
+      width: 160px;
+    }
+    #ntt {
+      width: 164px;
+    }
+    #solidoptics {
+      width: 168px;
+    }
+    #retn {
+      width: 198px;
+    }
+    #tecnocratica {
+      width: 216px;
+    }
+    #flexoptix {
+      width: 169px;
+    }
