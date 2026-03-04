@@ -1,5 +1,3 @@
-# Script para hacer copia de seguridad en Github (cfragalo) de Obsidian
-
 #!/bin/bash
 
 git add .
