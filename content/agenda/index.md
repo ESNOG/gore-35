@@ -151,15 +151,15 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 
 ### 10:15 - 10:45 CEST
 
-#### Título por definir
+#### AI Backend: Resolviendo las colisiones con SRv6 y SONiC
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-pablo-camarillo.jpg" alt="Pablo Caramillo" %}}
 
 
-**Ponente por definir**
+**Pablo Camarillo**
 
-[ESNOG](https://www.esnog.net/)
+[CISCO - https://www.cisco.com/](https://www.cisco.com/)
 
 
 Por definir
@@ -174,15 +174,15 @@ Por definir
 
 ### 10:45 - 11:15 CEST
 
-#### Título por definir
+#### SR-TE bandwidth sampler
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-dmytro-shypovalov.jpg" alt="Dmytro Shypovalov" %}}
 
 
-**Ponente por definir**
+**Dmytro Shypovalov**
 
-[ESNOG](https://www.esnog.net/)
+
 
 
 Por definir
@@ -254,6 +254,8 @@ Por definir
 {{% /portfolio %}}
 
 
+#
+#
 ---------------------------
 
 ### 12:45 - 13:15 CEST
@@ -297,22 +299,68 @@ Por definir
 
 ### 14:45- 15:15 CEST 
 
-#### Título por definir
+#### Más velocidad, menos fricción: evolucionando nuestro despliegue automático
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-sebastian-pazmay-maximiliano-estudies.jpg" alt="Sebastian Pazmay Maximiliano Estudies" %}}
 
 
-**Ponente por definir**
+**Sebastian Pazmay\
+Maximiliano Estudies**
 
-[ESNOG](https://www.esnog.net/)
+[INTER.LINK - https://inter.link/](https://inter.link/)
 
 
-Por definir
+La automatización es el motor de las operaciones en Inter.link. Nuestro equipo trabaja con software que se encarga de prácticamente todo el viaje del cliente: desde recibir un pedido de servicios como IP Transit o DDoS y convertirlo en configuraciones de red exactas, incluyendo la facturación y el monitoreo. Gracias a esto podemos lanzar nuevas funcionalidades rápido, sin sacrificar estabilidad ni calidad.
+
+Llegar a este punto no fue casualidad. Invertimos mucho en mejorar nuestro entorno de desarrollo y nuestras herramientas. Con el tiempo fuimos puliendo nuestro stack, buscando levantar entornos consistentes y construyendo pipelines de CI/CD que nos permitan desplegar cambios de forma segura, predecible y ágil.
+
+En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack, los desafíos que enfrentamos al intentar desplegar de forma rápida y confiable, y cómo esos retos nos llevaron a evolucionar nuestro entorno y nuestras prácticas. También compartiremos las soluciones adoptadas y los principios que hoy guían al equipo.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
+
+
+
+#
+#
+---------------------------
+
+### 15:15 - 15:45 CEST
+
+#### The Network Automation Forum Framework: A vendor-neutral reference model for building automation at scale
+#
+
+{{% portfolio image="/gore35/img/ponente-pete-crocker.jpg" alt="Pete Crocker" %}}
+
+
+**Pete Crocker**
+
+
+
+The Network Automation Forum spent the last year developing a common reference architecture that network engineers, vendors, consultants, and end-users can actually use. This talk walks through the framework architecture, explains why we needed standardised language around network automation, and shows how you can apply it whether you're starting from scratch or trying to make sense of what you already built. Reference: https://reference.networkautomation.forum/Framework/Framework/#presentation
+
+
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+
+{{% /portfolio %}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -405,7 +453,6 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 
 
-
 {{% /portfolio %}} 
 
 #
@@ -421,7 +468,7 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 #### Patrocinado por: 
 
-#### POR DEFINIR
+#### NETSCOUT
 
 [https://www.esnog.net/](https://www.esnog.net/) 
 
