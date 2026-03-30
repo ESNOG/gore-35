@@ -221,7 +221,7 @@ Por definir
 ####  Comprehensión y optimización de la eficiencia de transceptores ópticos utilizando métricas internas para mejorar el ahorro de energía
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-gerhard-stein.jpg" alt="Gerhard Stein" %}}
 
 
 **Gerhard Stein**
