@@ -344,7 +344,6 @@ En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack
 
 **Pete Crocker**
 
-
 The Network Automation Forum spent the last year developing a common reference architecture that network engineers, vendors, consultants, and end-users can actually use. This talk walks through the framework architecture, explains why we needed standardised language around network automation, and shows how you can apply it whether you're starting from scratch or trying to make sense of what you already built. 
 
 Reference: 
@@ -357,17 +356,28 @@ https://reference.networkautomation.forum/Framework/Framework/#presentation
 
 
 
+#
+#
+---------------------------
+
+### 15:45 - 16:15 CEST
+
+#### Título por definir
+#
+
+{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
+**Ponente por definir**
+
+[ESNOG](https://www.esnog.net/)
 
 
+Por definir
 
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
-
-
-
-
-
+{{% /portfolio %}}
 
 
 
