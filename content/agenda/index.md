@@ -343,7 +343,7 @@ Por definir
 #### Cuando el 90% de tu tráfico no es real
 #
 
-{{% portfolio image="/gore35/img/ponente-felipe-canyizares.jpg.jpg" alt="Felipe Canyizares" %}}
+{{% portfolio image="/gore35/img/ponente-felipe-canyizares.jpg" alt="Felipe Canyizares" %}}
 
 
 **Felipe Cañizares Navarro**
