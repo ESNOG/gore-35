@@ -154,7 +154,7 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 #### AI Backend: Resolviendo las colisiones con SRv6 y SONiC
 #
 
-{{% portfolio image="/gore35/img/ponente-pablo-camarillo.jpg" alt="Pablo Caramillo" %}}
+{{% portfolio image="/gore35/img/ponente-pablo-camarillo.jpg" alt="Pablo Camarillo" %}}
 
 
 **Pablo Camarillo**
@@ -162,7 +162,13 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 [CISCO - https://www.cisco.com/](https://www.cisco.com/)
 
 
-Por definir
+En esta sesión hablaremos sobre la problemática de los AI Backend con ECMP hash collisions, y las distintas tecnologías disponibles para solucionarlo (IETF, UET, …). 
+
+Veremos el caso de uso de Microsoft, que ha desplegado SRv6 con strict source routing para evitar las colisiones y reducir el JCT. 
+
+Finalmente veremos cómo se ha operacionalizado en el despliegue en producción con SONiC.
+
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -305,8 +311,8 @@ Por definir
 {{% portfolio image="/gore35/img/ponente-sebastian-pazmay-maximiliano-estudies.jpg" alt="Sebastian Pazmay Maximiliano Estudies" %}}
 
 
-**Sebastian Pazmay\
-Maximiliano Estudies**
+**Sebastian Pazmay**
+**Maximiliano Estudies**
 
 [INTER.LINK - https://inter.link/](https://inter.link/)
 
@@ -339,8 +345,10 @@ En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack
 **Pete Crocker**
 
 
+The Network Automation Forum spent the last year developing a common reference architecture that network engineers, vendors, consultants, and end-users can actually use. This talk walks through the framework architecture, explains why we needed standardised language around network automation, and shows how you can apply it whether you're starting from scratch or trying to make sense of what you already built. 
 
-The Network Automation Forum spent the last year developing a common reference architecture that network engineers, vendors, consultants, and end-users can actually use. This talk walks through the framework architecture, explains why we needed standardised language around network automation, and shows how you can apply it whether you're starting from scratch or trying to make sense of what you already built. Reference: https://reference.networkautomation.forum/Framework/Framework/#presentation
+Reference: 
+https://reference.networkautomation.forum/Framework/Framework/#presentation
 
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
