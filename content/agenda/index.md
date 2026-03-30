@@ -370,18 +370,17 @@ https://reference.networkautomation.forum/Framework/Framework/#presentation
 
 ### 15:45 - 16:15 CEST
 
-#### Título por definir
+#### Redes Desagregadas y Abiertas
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-hernan-martinez.jpg" alt="Hernán D. Martínez" %}}
 
 
-**Ponente por definir**
-
-[ESNOG](https://www.esnog.net/)
+**Hernán D. Martínez Dell’Arciprete.**
 
 
-Por definir
+Las redes abiertas y desagregadas representan una evolución estructural del networking tradicional hacia modelos más flexibles, escalables, competitivos y programables. Separar hardware y software permite acelerar innovación, reducir dependencia de fabricante y optimizar costos. Tecnologías como SONiC y el hardware WhiteBox están habilitando casos reales en Data Center, pero hay interesantes casos de éxito en Telcos, (como Peering, Routing, BNG) que van de la mano de estándares abiertos como OpenBNG, DDBR, DCSG, Cassini, Phoenix, etc. consolidando casos de uso listos para diferentes niveles de mercado.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
