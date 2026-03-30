@@ -315,67 +315,7 @@ Por definir
 {{% /portfolio %}}
 
 
-#
-#
----------------------------
 
-### 15:15 - 16:00 CEST
-
-### Puntos Neutros
-
-Actualización sobre las últimas novedades en los diferentes puntos neutros existentes en España. (En orden alfabético)
-
-#
-
-#### 15:15 - 15:30 CEST
-
-##### CATNIX
-
-{{% portfolio image="/gore35/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
-
-**María Isabel Gandía**
-
-[CATnix - www.catnix.net](https://www.catnix.net/es)
-
-
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-catnix.pdf))
-
-
-{{% /portfolio %}}  
-
-#
-
-#### 15:30 - 15:45 CEST
-
-##### DE-CIX 
-
-{{% portfolio image="/gore35/img/ponente-marcos-sanz.jpg" alt="Marcos Sanz" %}}
-
-**Marcos Sanz** 
-
-[DE-cix - www.de-cix.net](https://www.de-cix.net/)
-
-
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-de_cix.pdf))
-
-{{% /portfolio %}}  
-
-#
-
-#### 15:45 - 16:00 CEST
-
-##### ESPANIX
-
-{{% portfolio image="/gore35/img/ponente-javier-achirica.jpg" alt="Javier Achirica" %}}
-
-
-**Javier Achirica** 
-
-[ESPAnix - www.espanix.net](https://www.espanix.net/es)
-
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-espanix.pdf))
-
-{{% /portfolio %}}  
 
 
 #
@@ -400,18 +340,22 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ### 16:30 - 17:00 CEST
 
-#### Título por definir
+#### Cuando el 90% de tu tráfico no es real
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-felipe-canyizares.jpg.jpg" alt="Felipe Canyizares" %}}
 
 
-**Ponente por definir**
-
-[ESNOG](https://www.esnog.net/)
+**Felipe Cañizares Navarro**
 
 
-Por definir
+[https://dmntr.es](https://dmntr.es)
+
+
+En muchos servicios actuales, más del 70-90% del tráfico ya no es humano: bots, crawlers, scrapers y sistemas de entrenamiento de IA dominan las peticiones. La irrupción masiva de la inteligencia artificial ha acelerado este fenómeno y ha desgastado aún más el ya frágil ecosistema de Internet. Nos encontramos con webs y plataformas donde más del 90% del tráfico proviene de sistemas automatizados que consumen contenido de forma intensiva sin aportar valor directo al creador ni al operador.
+
+La idea es analizar y debatir el impacto técnico y económico de esta "audiencia fantasma" sobre operadores, CDNs, datacenters y pequeños/medianos proveedores: aumento del consumo de tránsito, distorsión de métricas y una asimetría creciente entre coste e ingresos. ¿Estamos diseñando redes para usuarios reales… o para alimentar máquinas?
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -541,24 +485,23 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 ### 9:30 - 10:00 CEST
 
-#### Título por definir
+#### MCP (Model Context Protocol) — De la teoría a la práctica
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-jose-roman.jpg" alt="Jose Roman" %}}
 
 
-**Ponente por definir**
+**José Román**
 
-[ESNOG](https://www.esnog.net/)
+[FIBERCLI](https://www.fibercli.com/)
 
 
-Por definir
+En esta charla exploraremos el Model Context Protocol (MCP), el estándar abierto impulsado por Anthropic que permite a los modelos de lenguaje conectarse de forma nativa con herramientas, APIs y fuentes de datos externas mediante un protocolo unificado cliente-servidor. Dedicaremos los primeros 10 minutos a entender qué problema resuelve MCP, cómo se diferencia del function calling tradicional, y por qué está llamado a convertirse en el "USB-C de la IA" — un conector universal que simplifica la integración entre LLMs y el mundo real. En la segunda parte (15 minutos), pasaremos directamente a la acción: levantaremos un servidor MCP sencillo que exponga una herramienta personalizada, lo conectaremos a Claude Desktop como cliente, y veremos en tiempo real cómo el modelo descubre, invoca y recibe resultados de nuestra herramienta sin necesidad de código de integración ad-hoc, demostrando así el potencial de MCP para construir agentes verdaderamente conectados con infraestructura real.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
-
-
 
 
 #
@@ -631,22 +574,86 @@ Por definir
 
 ### 11:30 - 12:00 CEST 
 
-#### Título por definir
+#### Arquitectas de Internet
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-eva-maria-castro.jpg" alt="Eva Maria Castro" %}}
 
 
-**Ponente por definir**
+**Eva María Castro**
 
-[ESNOG](https://www.esnog.net/)
+[Univerdad Rey Juan Carlos - https://www.urjc.es/eif](https://www.urjc.es/eif)
 
 
-Por definir
+La arquitectura de Internet se basa en un conjunto de principios de diseño que han permitido la interoperabilidad, escalabilidad y evolución de la red durante décadas. Ingenieras e investigadoras han contribuido tanto al desarrollo de protocolos como al análisis de los principios arquitectónicos que sustentan la modularidad de la red. Comprender la red Internet actual requiere un marco conceptual que permita describir la composición y la interacción de redes independientes bajo distintos dominios administrativos. Esta perspectiva arquitectónica permite entender cómo Internet ha podido crecer y evolucionar manteniendo la interoperabilidad entre sistemas heterogéneos a escala global. En esta charla conoceremos a las arquitectas de Internet del pasado y del presente.
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
 {{% /portfolio %}}
+
+
+#
+#
+---------------------------
+
+### 12:00 - 12:45 CEST
+
+### Puntos Neutros
+
+Actualización sobre las últimas novedades en los diferentes puntos neutros existentes en España. (En orden alfabético)
+
+#
+
+#### 12:00 - 12:15 CEST
+
+##### CATNIX
+
+{{% portfolio image="/gore35/img/ponente-maria-isabel-gandia.jpg" alt="Maria Isabel Gandía" %}}
+
+**María Isabel Gandía**
+
+[CATnix - www.catnix.net](https://www.catnix.net/es)
+
+
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-catnix.pdf))
+
+
+{{% /portfolio %}}  
+
+#
+
+#### 12:15 - 12:30 CEST
+
+##### DE-CIX 
+
+{{% portfolio image="/gore35/img/ponente-marcos-sanz.jpg" alt="Marcos Sanz" %}}
+
+**Marcos Sanz** 
+
+[DE-cix - www.de-cix.net](https://www.de-cix.net/)
+
+
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-de_cix.pdf))
+
+{{% /portfolio %}}  
+
+#
+
+#### 12:30 - 12:45 CEST
+
+##### ESPANIX
+
+{{% portfolio image="/gore35/img/ponente-javier-achirica.jpg" alt="Javier Achirica" %}}
+
+
+**Javier Achirica** 
+
+[ESPAnix - www.espanix.net](https://www.espanix.net/es)
+
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-espanix.pdf))
+
+{{% /portfolio %}}  
+
 
 
 
@@ -654,33 +661,7 @@ Por definir
 #
 ---------------------------
 
-### 12:00 - 12:30 CEST
-
-#### Título por definir
-#
-
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
-
-
-**Ponente por definir**
-
-[ESNOG](https://www.esnog.net/)
-
-
-Por definir
-
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
-
-{{% /portfolio %}}
-
-
-
-
-#
-#
----------------------------
-
-### 12:30 - 13:00 CEST
+### 12:45 - 13:00 CEST
 
 #### Título por definir
 #
@@ -721,18 +702,18 @@ Por definir
 
 ### 14:30- 15:00 CEST 
 
-#### Título por definir
+#### Soluciones innovadoras en un centro de datos con un nodo neutro nacional
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-javier-achirica.jpg" alt="Javier Achirica" %}}
 
 
-**Ponente por definir**
+**Javier Achirica**
 
-[ESNOG](https://www.esnog.net/)
+[ESPANIX - https://www.espanix.net/ ](https://www.espanix.net/)
 
 
-Por definir
+ESpanix aporta la experiencia de la gestión de un centro de datos en él que se alberga, entre otros, el principal nodo neutro del país. Vamos a descubrir los detalles técnicos y las soluciones adoptadas en este entorno de elevada disponibilidad.
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -747,18 +728,17 @@ Por definir
 
 ### 15:00 - 15:30 CEST
 
-#### Título por definir
+#### El bello arte de presentar y cautivar a la gente
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-fernando-garcia.jpg" alt="Fernando Garcia" %}}
 
 
-**Ponente por definir**
-
-[ESNOG](https://www.esnog.net/)
+**Fernando Garcia**
 
 
-Por definir
+Ideas y consejos para hacer presentaciones que atraigan a la gente y sean recordadas.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
