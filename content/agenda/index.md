@@ -218,18 +218,19 @@ Por definir
 
 ### 11:45 - 12:15 CEST
 
-#### Título por definir
+####  Comprehensión y optimización de la eficiencia de transceptores ópticos utilizando métricas internas para mejorar el ahorro de energía
 #
 
 {{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por definir**
+**Gerhard Stein**
 
-[ESNOG](https://www.esnog.net/)
+[FLEXOPTIX - www.flexoptix.net](www.flexoptix.net)
 
 
-Por definir
+ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficiencia de los transceptores son fundamentales para la fiabilidad de la red y el consumo de energía. Esta presentación explora las potentes capacidades de las funciones de supervisión de diagnóstico versátil (VDM) que se encuentran en los transceptores ópticos modernos (velocidades de 100G y más allá), con un enfoque particular en las métricas de corriente del enfriador termoeléctrico (TEC). Al analizar la corriente del TEC junto con los datos de temperatura y la longitud del cable, deberíamos ser capaces de identificar las condiciones de funcionamiento óptimas que minimizarán el consumo de energía mientras se mantiene el rendimiento. Para probar esta tesis, desarrollamos un par de prototipos de software para realizar el análisis de datos. Utilizando datos VDM del mundo real, esta charla demostrará cómo evaluar y visualizar la eficiencia del tansceptor en términos de vatios, descubriendo ideas prácticas para los ingenieros que buscan diseñar u operar redes ópticas más ecológicas y eficientes, con la motivación de ahorrar energía.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
