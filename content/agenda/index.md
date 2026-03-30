@@ -242,18 +242,19 @@ Por definir
 
 ### 12:15 - 12:45 CEST
 
-#### Título por definir
+#### ISP: Mejores Prácticas para la Red Core
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-alfredo-giordano.jpg" alt="Alfredo Giordano" %}}
 
 
-**Ponente por definir**
+**Alfredo Giordano**
 
-[ESNOG](https://www.esnog.net/)
+[WARIAN - https://www.warian.net/](https://www.warian.net/)
 
 
 Por definir
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -266,18 +267,24 @@ Por definir
 
 ### 12:45 - 13:15 CEST
 
-#### Título por definir
+#### Principles of MicroWave Communication
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-jan-stejska.jpg" alt="Jan Stejska" %}}
 
 
-**Ponente por definir**
+**Jan Stejska**
 
-[ESNOG](https://www.esnog.net/)
+[VANCO] [www.vanco.cz](www.vanco.cz) [www.wifishop.cz](www.wifishop.cz) 
 
 
-Por definir
+Explanation of digital signal processing algorithms using the XPIC and MIMO methods.
+Dimensioning of MW link availability based on the latest ITU-R methodologies.
+The presentation focuses on modern digital signal processing features. We will explore how XPIC and MIMO functions work, what benefits they offer, and the real-world capacities that can be achieved using these algorithms.
+
+In the second part of the presentation, we will focus on the limitations in terms of the distances of wireless links. We will demonstrate signal availability calculation methodologies based on the recommendations ITU-R P.837-7 and ITU-R P.453.
+We would look more deeply in to various bands including 60 and 80 GHz bands
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
