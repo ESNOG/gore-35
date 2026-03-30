@@ -510,18 +510,17 @@ En esta charla exploraremos el Model Context Protocol (MCP), el estándar abiert
 
 ### 10:00 - 10:30 CEST 
 
-#### Título por definir
+#### CPD over VXLAN: Extendiendo L2 sobre lo que sea
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-fernando-de-peroy-rodriguez.jpg" alt="Fernando de Peroy Rodriguez" %}}
 
 
-**Ponente por definir**
-
-[ESNOG](https://www.esnog.net/)
+**Fernando de Peroy Rodríguez**
 
 
-Por definir
+Tradicionalmente, interconectar centros de datos y garantizar la continuidad de negocio exige arquitecturas rígidas y costosos enlaces dedicados. En esta charla romperemos esa barrera presentando el modelo "CPD en STOCK". Veremos el diseño técnico y la validación de una arquitectura basada en túneles VXLAN superpuestos sobre IPsec (Overlay/Underlay), capaz de extender dominios de Capa 2 a través de Internet público o cualquier enlace disponible. Durante la charla demostraremos cómo es posible levantar réplicas en remoto y recuperar un entorno crítico sin tener que modificar ni un solo parámetro de red en la sede a rescatar. Exploraremos qué pasa con el tráfico de capa 2 cuando las condiciones del enlace se vuelven extremas (latencia, jitter, pérdida de paquetes) y cómo lograr, en definitiva, un DR ágil, robusto e independiente del operador.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -535,18 +534,21 @@ Por definir
 
 ### 10:30 - 11:00 CEST 
 
-#### Título por definir
+#### Un año de DDoS y Dos Vectores
 #
 
 {{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por definir**
+**Miguel Villada**
 
-[ESNOG](https://www.esnog.net/)
+[NETSCOUT - https://www.netscout.com/](https://www.netscout.com/)
 
 
-Por definir
+Restrospectiva DDoS del año 2025 en España. 
+
+- Aisuru 
+- Tuneles End Points
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -586,6 +588,7 @@ Por definir
 
 
 La arquitectura de Internet se basa en un conjunto de principios de diseño que han permitido la interoperabilidad, escalabilidad y evolución de la red durante décadas. Ingenieras e investigadoras han contribuido tanto al desarrollo de protocolos como al análisis de los principios arquitectónicos que sustentan la modularidad de la red. Comprender la red Internet actual requiere un marco conceptual que permita describir la composición y la interacción de redes independientes bajo distintos dominios administrativos. Esta perspectiva arquitectónica permite entender cómo Internet ha podido crecer y evolucionar manteniendo la interoperabilidad entre sistemas heterogéneos a escala global. En esta charla conoceremos a las arquitectas de Internet del pasado y del presente.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
