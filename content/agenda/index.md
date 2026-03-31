@@ -383,7 +383,7 @@ https://reference.networkautomation.forum/Framework/Framework/#presentation
 #### Rotación 2026 de la llave la raíz del DNS
 #
 
-{{% portfolio image="/gore35/img/ponente-hernan-martinez.jpg" alt="Hernán D. Martínez" %}}
+{{% portfolio image="/gore35/img/ponente-hugo-salgado.jpg" alt="Hugo Salgado" %}}
 
 
 **Hugo Salgado**
