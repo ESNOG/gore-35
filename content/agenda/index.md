@@ -159,7 +159,7 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore35/patrocinio) d
 
 **Pablo Camarillo**
 
-[CISCO - https://www.cisco.com/](https://www.cisco.com/)
+[CISCO SYSTEMS - https://www.cisco.com/](https://www.cisco.com/)
 
 
 En esta sesión hablaremos sobre la problemática de los AI Backend con ECMP hash collisions, y las distintas tecnologías disponibles para solucionarlo (IETF, UET, …). 
@@ -191,7 +191,7 @@ Finalmente veremos cómo se ha operacionalizado en el despliegue en producción 
 **Dmytro Shypovalov**
 
 
-[VEGVISIR - vegvisir.ie]
+[VEGVISIR - vegvisir.ie](vegvisir.ie)
 
 Una evolución natural del traffic engineering: de RSVP-TE a un modelo más simple, escalable y abierto con Segment Routing.
 
@@ -288,7 +288,7 @@ Por definir
 
 **Jan Stejska**
 
-[VANCO] [www.vanco.cz](www.vanco.cz) [www.wifishop.cz](www.wifishop.cz) 
+VANCO [www.vanco.cz](www.vanco.cz) [www.wifishop.cz](www.wifishop.cz) 
 
 
 Explanation of digital signal processing algorithms using the XPIC and MIMO methods.
@@ -382,19 +382,21 @@ https://reference.networkautomation.forum/Framework/Framework/#presentation
 
 ### 15:45 - 16:15 CEST
 
-#### Redes Desagregadas y Abiertas
+#### Rotación 2026 de la llave la raíz del DNS
 #
 
 {{% portfolio image="/gore35/img/ponente-hernan-martinez.jpg" alt="Hernán D. Martínez" %}}
 
 
-**Hernán D. Martínez Dell’Arciprete.**
+**Hugo Salgado**
 
 
-Las redes abiertas y desagregadas representan una evolución estructural del networking tradicional hacia modelos más flexibles, escalables, competitivos y programables. Separar hardware y software permite acelerar innovación, reducir dependencia de fabricante y optimizar costos. Tecnologías como SONiC y el hardware WhiteBox están habilitando casos reales en Data Center, pero hay interesantes casos de éxito en Telcos, (como Peering, Routing, BNG) que van de la mano de estándares abiertos como OpenBNG, DDBR, DCSG, Cassini, Phoenix, etc. consolidando casos de uso listos para diferentes niveles de mercado.
+En el mes de octubre de este año se realizará la rotación de la llave de la raíz del DNS. Este evento de alcance mundial será la segunda oportunidad que se realiza. La primera llave raíz del DNS apareció el año 2010, y fue rotada por primera vez el 2018.
+
 
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+
 
 {{% /portfolio %}}
 
@@ -434,7 +436,7 @@ Las redes abiertas y desagregadas representan una evolución estructural del net
 **Felipe Cañizares Navarro**
 
 
-[https://dmntr.es](https://dmntr.es)
+[DMNTR NETWORK SOLUTIONS - https://dmntr.es](https://dmntr.es)
 
 
 En muchos servicios actuales, más del 70-90% del tráfico ya no es humano: bots, crawlers, scrapers y sistemas de entrenamiento de IA dominan las peticiones. La irrupción masiva de la inteligencia artificial ha acelerado este fenómeno y ha desgastado aún más el ya frágil ecosistema de Internet. Nos encontramos con webs y plataformas donde más del 90% del tráfico proviene de sistemas automatizados que consumen contenido de forma intensiva sin aportar valor directo al creador ni al operador.
@@ -507,7 +509,7 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 #### NETSCOUT
 
-[https://www.esnog.net/](https://www.esnog.net/) 
+[https://www.netscout.com/](https://www.netscout.com/)
 
 #
 
@@ -668,7 +670,7 @@ Restrospectiva DDoS del año 2025 en España.
 
 **Eva María Castro**
 
-[Univerdad Rey Juan Carlos - https://www.urjc.es/eif](https://www.urjc.es/eif)
+[UNIVERSIDAD REY JUAN CARLOS - https://www.urjc.es/eif](https://www.urjc.es/eif)
 
 
 La arquitectura de Internet se basa en un conjunto de principios de diseño que han permitido la interoperabilidad, escalabilidad y evolución de la red durante décadas. Ingenieras e investigadoras han contribuido tanto al desarrollo de protocolos como al análisis de los principios arquitectónicos que sustentan la modularidad de la red. Comprender la red Internet actual requiere un marco conceptual que permita describir la composición y la interacción de redes independientes bajo distintos dominios administrativos. Esta perspectiva arquitectónica permite entender cómo Internet ha podido crecer y evolucionar manteniendo la interoperabilidad entre sistemas heterogéneos a escala global. En esta charla conoceremos a las arquitectas de Internet del pasado y del presente.
@@ -750,18 +752,18 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ### 12:45 - 13:00 CEST
 
-#### Título por definir
+#### Repensando Internet: más allá de BGP con SCION
 #
 
 {{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por definir**
+**Eduardo Collado**
 
-[ESNOG](https://www.esnog.net/)
+[TECNOCRATICA - https://www.tecnocratica.net/](https://www.tecnocratica.net/)
 
 
-Por definir
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -797,7 +799,7 @@ Por definir
 
 **Javier Achirica**
 
-[ESPANIX - https://www.espanix.net/ ](https://www.espanix.net/)
+[ESPAnix - https://www.espanix.net/ ](https://www.espanix.net/)
 
 
 ESpanix aporta la experiencia de la gestión de un centro de datos en él que se alberga, entre otros, el principal nodo neutro del país. Vamos a descubrir los detalles técnicos y las soluciones adoptadas en este entorno de elevada disponibilidad.
