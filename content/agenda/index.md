@@ -483,7 +483,7 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 Patrocinado por: 
 
-### SOLID OPTICS
+## SOLID OPTICS
 
 
 [https://www.solid-optics.com/](https://www.solid-optics.com/) 
@@ -505,7 +505,7 @@ Patrocinado por:
 
 Patrocinado por: 
 
-### NETSCOUT
+## NETSCOUT
 
 [https://www.netscout.com/](https://www.netscout.com/)
 
