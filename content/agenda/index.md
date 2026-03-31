@@ -481,7 +481,7 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 ### Beers & Talk
 
-##### Patrocinado por: 
+Patrocinado por: 
 
 ### SOLID OPTICS
 
@@ -503,7 +503,7 @@ La idea es analizar y debatir el impacto técnico y económico de esta "audienci
 
 ### Cena ESNOG
 
-#### Patrocinado por: 
+Patrocinado por: 
 
 #### NETSCOUT
 
