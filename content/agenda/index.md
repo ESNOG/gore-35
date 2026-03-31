@@ -172,6 +172,8 @@ Finalmente veremos cómo se ha operacionalizado en el despliegue en producción 
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
+
+
 {{% /portfolio %}}
 
 #
@@ -180,7 +182,7 @@ Finalmente veremos cómo se ha operacionalizado en el despliegue en producción 
 
 ### 10:45 - 11:15 CEST
 
-#### SR-TE bandwidth sampler
+#### Auto-bandwidth con SR-TE
 #
 
 {{% portfolio image="/gore35/img/ponente-dmytro-shypovalov.jpg" alt="Dmytro Shypovalov" %}}
@@ -189,11 +191,23 @@ Finalmente veremos cómo se ha operacionalizado en el despliegue en producción 
 **Dmytro Shypovalov**
 
 
+[VEGVISIR - vegvisir.ie]
 
+Una evolución natural del traffic engineering: de RSVP-TE a un modelo más simple, escalable y abierto con Segment Routing.
 
-Por definir
+Exploraremos cómo el auto-bandwidth puede adaptarse dinámicamente al tráfico real usando telemetría y control centralizado.
+
+Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin complejidad operativa excesiva.
+
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+
+# 
+[([**PRESENTACION en PDF**](/gore35/archivos/vegvisir-SR-TE-auto-bandwidth-ESNOG35.pdf))] # 
+#
+
+
+
 
 {{% /portfolio %}}
 
@@ -233,6 +247,10 @@ Por definir
 
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+
+# 
+[([**PRESENTACION en PDF**](/gore35/archivos/Flexoptix-TransceiverPowerConsumption-ESNOG35.pdf))] # 
+#
 
 {{% /portfolio %}}
 
