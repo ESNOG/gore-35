@@ -202,9 +202,6 @@ Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin co
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
-# 
-[([**PRESENTACION en PDF**](/gore35/archivos/vegvisir-SR-TE-auto-bandwidth-ESNOG35.pdf))] # 
-#
 
 
 
@@ -248,9 +245,6 @@ Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin co
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
-# 
-[([**PRESENTACION en PDF**](/gore35/archivos/Flexoptix-TransceiverPowerConsumption-ESNOG35.pdf))] # 
-#
 
 {{% /portfolio %}}
 
