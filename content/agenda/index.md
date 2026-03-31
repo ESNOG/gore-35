@@ -266,8 +266,6 @@ Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin co
 [WARIAN - https://www.warian.net/](https://www.warian.net/)
 
 
-Por definir
-
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
@@ -755,7 +753,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #### Repensando Internet: más allá de BGP con SCION
 #
 
-{{% portfolio image="/gore35/img/ponente-john-doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore35/img/ponente-eduardo-collado.jpg" alt="Eduardo Collado" %}}
 
 
 **Eduardo Collado**
