@@ -761,7 +761,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [TECNOCRATICA - https://www.tecnocratica.net/](https://www.tecnocratica.net/)
 
 
-
+Internet funciona de milagro. BGP lleva décadas aguantando el peso de la interconexión global sobre un modelo que confía en que los demás se van a comportar bien. Y la mayoría de las veces funciona. Pero si hoy tuviéramos que construir Internet desde cero, sabiendo lo que sabemos, no lo haríamos igual. SCION es una propuesta seria en esa dirección: caminos explícitos, verificación criptográfica y dominios de confianza bien definidos. No es el futuro garantizado de Internet, pero sí una demostración de que muchas de las limitaciones que damos por inevitables no lo son en absoluto.
 
 ([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
