@@ -329,7 +329,7 @@ We would look more deeply in to various bands including 60 and 80 GHz bands
 {{% portfolio image="/gore35/img/ponente-sebastian-pazmay-maximiliano-estudies.jpg" alt="Sebastian Pazmay Maximiliano Estudies" %}}
 
 
-**Sebastian Pazmay**
+**Sebastian Pazmay**\
 **Maximiliano Estudies**
 
 [INTER.LINK - https://inter.link/](https://inter.link/)
@@ -359,7 +359,6 @@ En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack
 
 {{% portfolio image="/gore35/img/ponente-pete-crocker.jpg" alt="Pete Crocker" %}}
 
-[OPSMILL - https://www.opsmill.com](https://www.opsmill.com)
 
 **Pete Crocker**
 
@@ -604,7 +603,7 @@ En esta charla exploraremos el Model Context Protocol (MCP), el estándar abiert
 {{% portfolio image="/gore35/img/ponente-fernando-de-peroy-rodriguez.jpg" alt="Fernando de Peroy Rodriguez" %}}
 
 
-**Fernando de Peroy Rodríguez**
+**Fernando de Peroy Rodríguez**\
 **Jesús David Guisande Figueroa**
 
 
