@@ -359,6 +359,7 @@ En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack
 
 {{% portfolio image="/gore35/img/ponente-pete-crocker.jpg" alt="Pete Crocker" %}}
 
+[OPSMILL - https://www.opsmill.com](https://www.opsmill.com)
 
 **Pete Crocker**
 
@@ -604,6 +605,7 @@ En esta charla exploraremos el Model Context Protocol (MCP), el estándar abiert
 
 
 **Fernando de Peroy Rodríguez**
+**Jesús David Guisande Figueroa**
 
 
 Tradicionalmente, interconectar centros de datos y garantizar la continuidad de negocio exige arquitecturas rígidas y costosos enlaces dedicados. En esta charla romperemos esa barrera presentando el modelo "CPD en STOCK". Veremos el diseño técnico y la validación de una arquitectura basada en túneles VXLAN superpuestos sobre IPsec (Overlay/Underlay), capaz de extender dominios de Capa 2 a través de Internet público o cualquier enlace disponible. Durante la charla demostraremos cómo es posible levantar réplicas en remoto y recuperar un entorno crítico sin tener que modificar ni un solo parámetro de red en la sede a rescatar. Exploraremos qué pasa con el tráfico de capa 2 cuando las condiciones del enlace se vuelven extremas (latencia, jitter, pérdida de paquetes) y cómo lograr, en definitiva, un DR ágil, robusto e independiente del operador.
