@@ -340,7 +340,7 @@ Llegar a este punto no fue casualidad. Invertimos mucho en mejorar nuestro entor
 En esta charla mostraremos qué hay detrás de todo esto: cómo es nuestro stack, los desafíos que enfrentamos al intentar desplegar de forma rápida y confiable, y cómo esos retos nos llevaron a evolucionar nuestro entorno y nuestras prácticas. También compartiremos las soluciones adoptadas y los principios que hoy guían al equipo.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-interlink-despliegue-automatico.pdf))
 
 {{% /portfolio %}}
 
