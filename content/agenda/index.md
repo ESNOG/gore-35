@@ -394,7 +394,7 @@ En el mes de octubre de este año se realizará la rotación de la llave de la r
 
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-rotacion-2026-de-la-llave-raiz-del-dns.pdf------remove))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-rotacion-2026-de-la-llave-raiz-del-dns.pdf))
 
 
 
