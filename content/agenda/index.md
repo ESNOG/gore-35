@@ -265,7 +265,7 @@ Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin co
 
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-best-pratices-for-ISP-core-network.pdf))
 
 {{% /portfolio %}}
 
