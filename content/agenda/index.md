@@ -394,7 +394,8 @@ En el mes de octubre de este año se realizará la rotación de la llave de la r
 
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-rotacion-2026-de-la-llave-raiz-del-dns.pdf------remove))
+
 
 
 {{% /portfolio %}}
@@ -443,7 +444,8 @@ En muchos servicios actuales, más del 70-90% del tráfico ya no es humano: bots
 La idea es analizar y debatir el impacto técnico y económico de esta "audiencia fantasma" sobre operadores, CDNs, datacenters y pequeños/medianos proveedores: aumento del consumo de tránsito, distorsión de métricas y una asimetría creciente entre coste e ingresos. ¿Estamos diseñando redes para usuarios reales… o para alimentar máquinas?
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-cuando-el-90-de-tu-trafico-no-es-real.pdf-----REMOVE))
+
 
 {{% /portfolio %}}
 
