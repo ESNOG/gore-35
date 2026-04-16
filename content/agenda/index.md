@@ -169,8 +169,7 @@ Veremos el caso de uso de Microsoft, que ha desplegado SRv6 con strict source ro
 Finalmente veremos cómo se ha operacionalizado en el despliegue en producción con SONiC.
 
 
-
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-ai-backend-srv6-cisco_systems.pdf))
 
 
 
