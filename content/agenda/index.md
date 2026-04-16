@@ -199,9 +199,8 @@ Exploraremos cómo el auto-bandwidth puede adaptarse dinámicamente al tráfico 
 Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin complejidad operativa excesiva.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
 
-
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-vegvisir-SR-TE-auto-bandwidth.pdf))
 
 
 
