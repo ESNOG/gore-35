@@ -369,7 +369,7 @@ Reference:
 https://reference.networkautomation.forum/Framework/Framework/#presentation
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-naf-framework.pdf))
 
 {{% /portfolio %}}
 
