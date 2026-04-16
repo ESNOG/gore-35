@@ -282,7 +282,7 @@ Veremos cómo automatizar mallas completas de LSP y diferenciar servicios sin co
 {{% portfolio image="/gore35/img/ponente-jan-stejska.jpg" alt="Jan Stejska" %}}
 
 
-**Jan Stejska**
+**Jan Stejskal**
 
 VANCO [www.vanco.cz](www.vanco.cz) [www.wifishop.cz](www.wifishop.cz) 
 
@@ -295,7 +295,7 @@ In the second part of the presentation, we will focus on the limitations in term
 We would look more deeply in to various bands including 60 and 80 GHz bands
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-vanco-microwave-technologies-in-practice.pdf))
 
 {{% /portfolio %}}
 
