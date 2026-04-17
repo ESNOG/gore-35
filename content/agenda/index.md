@@ -678,7 +678,7 @@ Restrospectiva DDoS del año 2025 en España.
 La arquitectura de Internet se basa en un conjunto de principios de diseño que han permitido la interoperabilidad, escalabilidad y evolución de la red durante décadas. Ingenieras e investigadoras han contribuido tanto al desarrollo de protocolos como al análisis de los principios arquitectónicos que sustentan la modularidad de la red. Comprender la red Internet actual requiere un marco conceptual que permita describir la composición y la interacción de redes independientes bajo distintos dominios administrativos. Esta perspectiva arquitectónica permite entender cómo Internet ha podido crecer y evolucionar manteniendo la interoperabilidad entre sistemas heterogéneos a escala global. En esta charla conoceremos a las arquitectas de Internet del pasado y del presente.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-arquitectas-internet.pdf))
 
 {{% /portfolio %}}
 
