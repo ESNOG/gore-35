@@ -586,7 +586,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 En esta charla exploraremos el Model Context Protocol (MCP), el estándar abierto impulsado por Anthropic que permite a los modelos de lenguaje conectarse de forma nativa con herramientas, APIs y fuentes de datos externas mediante un protocolo unificado cliente-servidor. Dedicaremos los primeros 10 minutos a entender qué problema resuelve MCP, cómo se diferencia del function calling tradicional, y por qué está llamado a convertirse en el "USB-C de la IA" — un conector universal que simplifica la integración entre LLMs y el mundo real. En la segunda parte (15 minutos), pasaremos directamente a la acción: levantaremos un servidor MCP sencillo que exponga una herramienta personalizada, lo conectaremos a Claude Desktop como cliente, y veremos en tiempo real cómo el modelo descubre, invoca y recibe resultados de nuestra herramienta sin necesidad de código de integración ad-hoc, demostrando así el potencial de MCP para construir agentes verdaderamente conectados con infraestructura real.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog-35-fibercli-mcp.pdf))
 
 {{% /portfolio %}}
 
@@ -610,7 +610,7 @@ En esta charla exploraremos el Model Context Protocol (MCP), el estándar abiert
 Tradicionalmente, interconectar centros de datos y garantizar la continuidad de negocio exige arquitecturas rígidas y costosos enlaces dedicados. En esta charla romperemos esa barrera presentando el modelo "CPD en STOCK". Veremos el diseño técnico y la validación de una arquitectura basada en túneles VXLAN superpuestos sobre IPsec (Overlay/Underlay), capaz de extender dominios de Capa 2 a través de Internet público o cualquier enlace disponible. Durante la charla demostraremos cómo es posible levantar réplicas en remoto y recuperar un entorno crítico sin tener que modificar ni un solo parámetro de red en la sede a rescatar. Exploraremos qué pasa con el tráfico de capa 2 cuando las condiciones del enlace se vuelven extremas (latencia, jitter, pérdida de paquetes) y cómo lograr, en definitiva, un DR ágil, robusto e independiente del operador.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-cpd-over-vxlan.pdf))
 
 {{% /portfolio %}}
 
