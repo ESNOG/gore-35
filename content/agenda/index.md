@@ -724,7 +724,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [DE-cix - www.de-cix.net](https://www.de-cix.net/)
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-actualizacion-de_cix.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-actualizacion-de-cix.pdf))
  
 {{% /portfolio %}}  
 
