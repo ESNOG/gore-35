@@ -586,7 +586,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 En esta charla exploraremos el Model Context Protocol (MCP), el estándar abierto impulsado por Anthropic que permite a los modelos de lenguaje conectarse de forma nativa con herramientas, APIs y fuentes de datos externas mediante un protocolo unificado cliente-servidor. Dedicaremos los primeros 10 minutos a entender qué problema resuelve MCP, cómo se diferencia del function calling tradicional, y por qué está llamado a convertirse en el "USB-C de la IA" — un conector universal que simplifica la integración entre LLMs y el mundo real. En la segunda parte (15 minutos), pasaremos directamente a la acción: levantaremos un servidor MCP sencillo que exponga una herramienta personalizada, lo conectaremos a Claude Desktop como cliente, y veremos en tiempo real cómo el modelo descubre, invoca y recibe resultados de nuestra herramienta sin necesidad de código de integración ad-hoc, demostrando así el potencial de MCP para construir agentes verdaderamente conectados con infraestructura real.
 
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog-35-fibercli-mcp.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-fibercli-mcp.pdf))
 
 {{% /portfolio %}}
 
