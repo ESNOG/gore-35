@@ -638,7 +638,7 @@ Restrospectiva DDoS del año 2025 en España.
 - Aisuru 
 - Tuneles End Points
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-netscout-un-anyo-dos-vectores.pdf))
 
 {{% /portfolio %}}
 
@@ -831,7 +831,7 @@ ESpanix aporta la experiencia de la gestión de un centro de datos en él que se
 Ideas y consejos para hacer presentaciones que atraigan a la gente y sean recordadas.
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-the-art-of-presentation.pdf----remove))
 
 {{% /portfolio %}}
 
