@@ -706,7 +706,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog35-catnix.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-actualizacion-catnix.pdf))
 
 
 {{% /portfolio %}}  
