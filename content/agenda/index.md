@@ -806,7 +806,7 @@ Internet funciona de milagro. BGP lleva décadas aguantando el peso de la interc
 
 ESpanix aporta la experiencia de la gestión de un centro de datos en él que se alberga, entre otros, el principal nodo neutro del país. Vamos a descubrir los detalles técnicos y las soluciones adoptadas en este entorno de elevada disponibilidad.
 
-([**PRESENTACION en PDF no disponible**](/gore35/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-espanix-estrategias-sistemas.pdf))
 
 {{% /portfolio %}}
 
