@@ -831,7 +831,7 @@ ESpanix aporta la experiencia de la gestión de un centro de datos en él que se
 Ideas y consejos para hacer presentaciones que atraigan a la gente y sean recordadas.
 
 
-([**PRESENTACION en PDF**](/gore35/archivos/esnog35-the-art-of-presentation.pdf----remove))
+([**PRESENTACION en PDF**](/gore35/archivos/esnog35-the-art-of-presentation.pdf))
 
 {{% /portfolio %}}
 
